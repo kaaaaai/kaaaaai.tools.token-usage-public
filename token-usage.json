@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T00:08:25.787Z",
+  "generatedAt": "2026-07-22T08:26:43+08:00",
   "overview": {
     "totalCost": 5453.455411,
     "totalTokens": 12433333541,
     "activeDays": 151,
     "totalMessages": 72891,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-07-22T00:08:25.787Z"
+    "lastUpdated": "2026-07-22T08:26:43+08:00"
   },
   "models": [
     {
@@ -105,27 +105,27 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.3-codex",
-      "inputTokens": 34379669,
-      "outputTokens": 2288113,
-      "cacheReadTokens": 429802880,
+      "inputTokens": 34787898,
+      "outputTokens": 2288692,
+      "cacheReadTokens": 430157952,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 997361,
-      "totalTokens": 467468023,
-      "totalCost": 181.376561,
-      "messageCount": 5230
+      "reasoningTokens": 997452,
+      "totalTokens": 468231994,
+      "totalCost": 182.162479,
+      "messageCount": 5240
     },
     {
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.2-codex",
-      "inputTokens": 21112550,
-      "outputTokens": 3044502,
-      "cacheReadTokens": 326182400,
+      "inputTokens": 21527497,
+      "outputTokens": 3063209,
+      "cacheReadTokens": 330945920,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 1979368,
-      "totalTokens": 352318820,
-      "totalCost": 164.363062,
-      "messageCount": 6478
+      "reasoningTokens": 1990184,
+      "totalTokens": 357526810,
+      "totalCost": 166.336158,
+      "messageCount": 6535
     },
     {
       "client": "openclaw",
