@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T00:07:34.138Z",
+  "generatedAt": "2026-07-22T00:08:25.787Z",
   "overview": {
-    "totalCost": 5452.859546,
-    "totalTokens": 12432319971,
+    "totalCost": 5453.455411,
+    "totalTokens": 12433333541,
     "activeDays": 151,
-    "totalMessages": 72877,
+    "totalMessages": 72891,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-07-22T00:07:34.138Z"
+    "lastUpdated": "2026-07-22T00:08:25.787Z"
   },
   "models": [
     {
@@ -66,14 +66,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 17786858,
-      "outputTokens": 1689478,
-      "cacheReadTokens": 481327616,
+      "inputTokens": 17800355,
+      "outputTokens": 1691396,
+      "cacheReadTokens": 482121728,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 603406,
-      "totalTokens": 501407358,
-      "totalCost": 398.384618,
-      "messageCount": 4450
+      "reasoningTokens": 603937,
+      "totalTokens": 502217416,
+      "totalCost": 398.922629,
+      "messageCount": 4460
     },
     {
       "client": "claude",
@@ -235,14 +235,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "codex-auto-review",
-      "inputTokens": 1585081,
-      "outputTokens": 27095,
-      "cacheReadTokens": 7995776,
+      "inputTokens": 1590280,
+      "outputTokens": 27336,
+      "cacheReadTokens": 8110976,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 13980,
-      "totalTokens": 9621932,
-      "totalCost": 0.678315,
-      "messageCount": 254
+      "reasoningTokens": 14040,
+      "totalTokens": 9742632,
+      "totalCost": 0.683096,
+      "messageCount": 257
     },
     {
       "client": "codex",
@@ -1187,9 +1187,9 @@
     },
     {
       "date": "2026-07-22",
-      "tokens": 5387351,
-      "cost": 4.454594,
-      "messages": 118
+      "tokens": 6400921,
+      "cost": 5.050459,
+      "messages": 132
     }
   ],
   "dailyModels": {
@@ -2433,8 +2433,8 @@
         "totalTokens": 2608755,
         "totalCost": 3.296397,
         "models": {
-          "codex-auto-review": 62575,
-          "gpt-5.5": 2546180
+          "gpt-5.5": 2546180,
+          "codex-auto-review": 62575
         }
       },
       {
@@ -2589,12 +2589,12 @@
       },
       {
         "date": "2026-07-22",
-        "totalTokens": 5387351,
-        "totalCost": 4.454594,
+        "totalTokens": 6400921,
+        "totalCost": 5.050459,
         "models": {
-          "gpt-5.6-sol": 3911933,
-          "codex-auto-review": 370507,
-          "gpt-5.5": 1104911
+          "gpt-5.5": 1104911,
+          "codex-auto-review": 491207,
+          "gpt-5.6-sol": 4804803
         }
       }
     ]
