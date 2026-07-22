@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T12:30:15+08:00",
+  "generatedAt": "2026-07-22T15:08:46+08:00",
   "overview": {
-    "totalCost": 5555.42087,
+    "totalCost": 5555.420875,
     "totalTokens": 12603171447,
     "activeDays": 151,
     "totalMessages": 74200,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-07-22T12:30:15+08:00"
+    "lastUpdated": "2026-07-22T15:08:46+08:00"
   },
   "models": [
     {
@@ -66,14 +66,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 21776624,
-      "outputTokens": 1933002,
-      "cacheReadTokens": 568955904,
+      "inputTokens": 21777512,
+      "outputTokens": 1933201,
+      "cacheReadTokens": 569037568,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 692502,
-      "totalTokens": 593358032,
-      "totalCost": 472.126192,
-      "messageCount": 5253
+      "reasoningTokens": 692563,
+      "totalTokens": 593440844,
+      "totalCost": 472.179264,
+      "messageCount": 5254
     },
     {
       "client": "claude",
@@ -163,7 +163,7 @@
       "cacheWriteTokens": 0,
       "reasoningTokens": 203062,
       "totalTokens": 47492662,
-      "totalCost": 26.562716,
+      "totalCost": 26.562715,
       "messageCount": 675
     },
     {
@@ -564,7 +564,7 @@
     {
       "date": "2026-02-09",
       "tokens": 11215926,
-      "cost": 6.353504,
+      "cost": 6.353505,
       "messages": 209
     },
     {
@@ -936,7 +936,7 @@
     {
       "date": "2026-06-01",
       "tokens": 912430,
-      "cost": 1.360633,
+      "cost": 1.360634,
       "messages": 19
     },
     {
