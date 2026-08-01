@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-01T01:59:52+08:00",
+  "generatedAt": "2026-08-01T07:59:50+08:00",
   "overview": {
-    "totalCost": 8283.686177,
-    "totalTokens": 17868752439,
+    "totalCost": 8288.464252,
+    "totalTokens": 17875396705,
     "activeDays": 165,
-    "totalMessages": 99942,
+    "totalMessages": 100015,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-08-01T01:59:52+08:00"
+    "lastUpdated": "2026-08-01T07:59:50+08:00"
   },
   "models": [
     {
@@ -27,14 +27,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 59210675,
-      "outputTokens": 5039602,
-      "cacheReadTokens": 1628394752,
+      "inputTokens": 59379710,
+      "outputTokens": 5060258,
+      "cacheReadTokens": 1634513920,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 1955265,
-      "totalTokens": 1694600294,
-      "totalCost": 1320.096761,
-      "messageCount": 14768
+      "reasoningTokens": 1959887,
+      "totalTokens": 1700913775,
+      "totalCost": 1324.75986,
+      "messageCount": 14829
     },
     {
       "client": "claude",
@@ -183,14 +183,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-terra",
-      "inputTokens": 7674633,
-      "outputTokens": 1064064,
-      "cacheReadTokens": 119673600,
+      "inputTokens": 7721125,
+      "outputTokens": 1069328,
+      "cacheReadTokens": 119951104,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 472903,
-      "totalTokens": 128885200,
-      "totalCost": 54.733305,
-      "messageCount": 2250
+      "reasoningTokens": 474428,
+      "totalTokens": 129215985,
+      "totalCost": 54.848281,
+      "messageCount": 2262
     },
     {
       "client": "openclaw",
@@ -1362,9 +1362,9 @@
     },
     {
       "date": "2026-08-01",
-      "tokens": 29299834,
-      "cost": 24.396474,
-      "messages": 306
+      "tokens": 35944100,
+      "cost": 29.174549,
+      "messages": 379
     }
   ],
   "dailyModels": {
@@ -2920,10 +2920,11 @@
       },
       {
         "date": "2026-08-01",
-        "totalTokens": 29299834,
-        "totalCost": 24.396474,
+        "totalTokens": 35944100,
+        "totalCost": 29.174549,
         "models": {
-          "gpt-5.6-sol": 29299834
+          "gpt-5.6-terra": 330785,
+          "gpt-5.6-sol": 35613315
         }
       }
     ]
