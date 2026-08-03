@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T16:00:27+08:00",
+  "generatedAt": "2026-08-03T18:00:17+08:00",
   "overview": {
-    "totalCost": 8577.400364,
-    "totalTokens": 18281137937,
+    "totalCost": 8619.211052,
+    "totalTokens": 18370025187,
     "activeDays": 167,
-    "totalMessages": 102203,
+    "totalMessages": 102506,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-08-03T16:00:27+08:00"
+    "lastUpdated": "2026-08-03T18:00:17+08:00"
   },
   "models": [
     {
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-sonnet-5",
-      "inputTokens": 30636901,
-      "outputTokens": 20537221,
-      "cacheReadTokens": 9183314907,
-      "cacheWriteTokens": 219064020,
+      "inputTokens": 30711145,
+      "outputTokens": 20632155,
+      "cacheReadTokens": 9223869073,
+      "cacheWriteTokens": 221447584,
       "reasoningTokens": 0,
-      "totalTokens": 9453553049,
-      "totalCost": 2650.969042,
-      "messageCount": 30957
+      "totalTokens": 9496659957,
+      "totalCost": 2666.136613,
+      "messageCount": 31121
     },
     {
       "client": "codex",
@@ -40,14 +40,14 @@
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-opus-4-8",
-      "inputTokens": 12679320,
-      "outputTokens": 9016832,
-      "cacheReadTokens": 930012462,
-      "cacheWriteTokens": 52855081,
+      "inputTokens": 12680414,
+      "outputTokens": 9019332,
+      "cacheReadTokens": 930385963,
+      "cacheWriteTokens": 52912227,
       "reasoningTokens": 0,
-      "totalTokens": 1004563695,
-      "totalCost": 1084.167888,
-      "messageCount": 5087
+      "totalTokens": 1004997936,
+      "totalCost": 1084.779771,
+      "messageCount": 5093
     },
     {
       "client": "claude",
@@ -79,27 +79,27 @@
       "client": "pi",
       "provider": "openai-codex",
       "model": "gpt-5.6-sol",
-      "inputTokens": 26535912,
-      "outputTokens": 960768,
-      "cacheReadTokens": 568974848,
+      "inputTokens": 26712792,
+      "outputTokens": 966007,
+      "cacheReadTokens": 573699328,
       "cacheWriteTokens": 0,
       "reasoningTokens": 0,
-      "totalTokens": 596471528,
-      "totalCost": 445.990024,
-      "messageCount": 4239
+      "totalTokens": 601378127,
+      "totalCost": 449.393834,
+      "messageCount": 4274
     },
     {
       "client": "pi",
       "provider": "anthropic",
       "model": "claude-opus-5",
-      "inputTokens": 80755,
-      "outputTokens": 898742,
-      "cacheReadTokens": 480963563,
-      "cacheWriteTokens": 11107819,
+      "inputTokens": 80951,
+      "outputTokens": 960728,
+      "cacheReadTokens": 521186425,
+      "cacheWriteTokens": 11262277,
       "reasoningTokens": 0,
-      "totalTokens": 493050879,
-      "totalCost": 332.777975,
-      "messageCount": 1540
+      "totalTokens": 533490381,
+      "totalCost": 355.405399,
+      "messageCount": 1638
     },
     {
       "client": "pi",
@@ -1374,9 +1374,9 @@
     },
     {
       "date": "2026-08-03",
-      "tokens": 288178497,
-      "cost": 194.536116,
-      "messages": 1390
+      "tokens": 377065747,
+      "cost": 236.346804,
+      "messages": 1693
     }
   ],
   "dailyModels": {
@@ -2937,9 +2937,9 @@
         "models": {
           "gpt-5.6-terra": 1239926,
           "gpt-5.6-sol": 122674249,
-          "claude-opus-4-8": 0,
           "claude-opus-5": 0,
-          "<synthetic>": 0
+          "<synthetic>": 0,
+          "claude-opus-4-8": 0
         }
       },
       {
@@ -2952,13 +2952,13 @@
       },
       {
         "date": "2026-08-03",
-        "totalTokens": 288178497,
-        "totalCost": 194.536116,
+        "totalTokens": 377065747,
+        "totalCost": 236.346804,
         "models": {
-          "claude-opus-4-8": 52388591,
-          "claude-opus-5": 30922049,
-          "gpt-5.6-sol": 174296384,
-          "claude-sonnet-5": 30571473
+          "claude-opus-4-8": 52822832,
+          "claude-opus-5": 71361551,
+          "gpt-5.6-sol": 179202983,
+          "claude-sonnet-5": 73678381
         }
       }
     ]
