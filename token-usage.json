@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T12:00:17+08:00",
+  "generatedAt": "2026-08-05T14:00:15+08:00",
   "overview": {
-    "totalCost": 9115.398547,
-    "totalTokens": 19153427914,
+    "totalCost": 9117.018515,
+    "totalTokens": 19156467251,
     "activeDays": 169,
-    "totalMessages": 105125,
+    "totalMessages": 105130,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-08-05T12:00:17+08:00"
+    "lastUpdated": "2026-08-05T14:00:15+08:00"
   },
   "models": [
     {
@@ -66,14 +66,14 @@
       "client": "pi",
       "provider": "anthropic",
       "model": "claude-opus-5",
-      "inputTokens": 820174,
-      "outputTokens": 2228330,
-      "cacheReadTokens": 1122246521,
-      "cacheWriteTokens": 19327504,
+      "inputTokens": 820184,
+      "outputTokens": 2231939,
+      "cacheReadTokens": 1125280181,
+      "cacheWriteTokens": 19329562,
       "reasoningTokens": 0,
-      "totalTokens": 1144622529,
-      "totalCost": 741.72928,
-      "messageCount": 3483
+      "totalTokens": 1147661866,
+      "totalCost": 743.349248,
+      "messageCount": 3488
     },
     {
       "client": "codex",
@@ -1399,9 +1399,9 @@
     },
     {
       "date": "2026-08-05",
-      "tokens": 60625227,
-      "cost": 35.725433,
-      "messages": 120
+      "tokens": 63664564,
+      "cost": 37.345401,
+      "messages": 125
     }
   ],
   "dailyModels": {
@@ -2962,9 +2962,9 @@
         "models": {
           "gpt-5.6-terra": 1239926,
           "gpt-5.6-sol": 122674249,
+          "claude-opus-4-8": 0,
           "claude-opus-5": 0,
-          "<synthetic>": 0,
-          "claude-opus-4-8": 0
+          "<synthetic>": 0
         }
       },
       {
@@ -3000,10 +3000,10 @@
       },
       {
         "date": "2026-08-05",
-        "totalTokens": 60625227,
-        "totalCost": 35.725433,
+        "totalTokens": 63664564,
+        "totalCost": 37.345401,
         "models": {
-          "claude-opus-5": 60625227
+          "claude-opus-5": 63664564
         }
       }
     ]
