@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-06T14:01:06+08:00",
+  "generatedAt": "2026-08-06T16:00:21+08:00",
   "overview": {
-    "totalCost": 9760.50713,
-    "totalTokens": 20165437211,
+    "totalCost": 9905.072495,
+    "totalTokens": 20405514224,
     "activeDays": 170,
-    "totalMessages": 108302,
+    "totalMessages": 108829,
     "favoriteModel": "claude-sonnet-5",
-    "lastUpdated": "2026-08-06T14:01:06+08:00"
+    "lastUpdated": "2026-08-06T16:00:21+08:00"
   },
   "models": [
     {
@@ -20,34 +20,34 @@
       "cacheWriteTokens": 223279828,
       "reasoningTokens": 0,
       "totalTokens": 9531791010,
-      "totalCost": 2678.957533,
+      "totalCost": 2678.957532,
       "messageCount": 31244
     },
     {
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 61178641,
-      "outputTokens": 5204116,
-      "cacheReadTokens": 1687945984,
+      "inputTokens": 61218839,
+      "outputTokens": 5204305,
+      "cacheReadTokens": 1687953920,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 2008516,
-      "totalTokens": 1756337257,
-      "totalCost": 1366.245157,
-      "messageCount": 15238
+      "reasoningTokens": 2008572,
+      "totalTokens": 1756385636,
+      "totalCost": 1366.457465,
+      "messageCount": 15239
     },
     {
       "client": "pi",
       "provider": "anthropic",
       "model": "claude-opus-5",
-      "inputTokens": 898312,
-      "outputTokens": 3769182,
-      "cacheReadTokens": 1893082726,
-      "cacheWriteTokens": 29912210,
+      "inputTokens": 899086,
+      "outputTokens": 4056631,
+      "cacheReadTokens": 2083392880,
+      "cacheWriteTokens": 31396596,
       "reasoningTokens": 0,
-      "totalTokens": 1927662430,
-      "totalCost": 1232.213785,
-      "messageCount": 5798
+      "totalTokens": 2119745193,
+      "totalCost": 1343.836369,
+      "messageCount": 6185
     },
     {
       "client": "claude",
@@ -117,6 +117,19 @@
     {
       "client": "claude",
       "provider": "anthropic",
+      "model": "claude-opus-5",
+      "inputTokens": 514817,
+      "outputTokens": 853395,
+      "cacheReadTokens": 300252716,
+      "cacheWriteTokens": 5436057,
+      "reasoningTokens": 0,
+      "totalTokens": 307056985,
+      "totalCost": 208.010675,
+      "messageCount": 1148
+    },
+    {
+      "client": "claude",
+      "provider": "anthropic",
       "model": "claude-opus-4-7",
       "inputTokens": 485470,
       "outputTokens": 694890,
@@ -152,19 +165,6 @@
       "totalTokens": 468231994,
       "totalCost": 182.162478,
       "messageCount": 5240
-    },
-    {
-      "client": "claude",
-      "provider": "anthropic",
-      "model": "claude-opus-5",
-      "inputTokens": 457669,
-      "outputTokens": 745304,
-      "cacheReadTokens": 253489848,
-      "cacheWriteTokens": 4418293,
-      "reasoningTokens": 0,
-      "totalTokens": 259111114,
-      "totalCost": 175.280201,
-      "messageCount": 1009
     },
     {
       "client": "codex",
@@ -1405,9 +1405,9 @@
     },
     {
       "date": "2026-08-06",
-      "tokens": 175123643,
-      "cost": 127.408351,
-      "messages": 559
+      "tokens": 415200656,
+      "cost": 271.973716,
+      "messages": 1086
     }
   ],
   "dailyModels": {
@@ -2968,9 +2968,9 @@
         "models": {
           "gpt-5.6-terra": 1239926,
           "gpt-5.6-sol": 122674249,
-          "claude-opus-4-8": 0,
+          "claude-opus-5": 0,
           "<synthetic>": 0,
-          "claude-opus-5": 0
+          "claude-opus-4-8": 0
         }
       },
       {
@@ -2997,9 +2997,9 @@
         "totalTokens": 540591336,
         "totalCost": 361.609857,
         "models": {
-          "claude-sonnet-5": 2685305,
-          "gpt-5.6-sol": 30999938,
           "claude-opus-5": 457134148,
+          "gpt-5.6-sol": 30999938,
+          "claude-sonnet-5": 2685305,
           "claude-opus-4-8": 49771945,
           "<synthetic>": 0
         }
@@ -3009,17 +3009,18 @@
         "totalTokens": 897510881,
         "totalCost": 553.425665,
         "models": {
-          "claude-opus-5": 897510881,
-          "gpt-5.6-sol": 0
+          "gpt-5.6-sol": 0,
+          "claude-opus-5": 897510881
         }
       },
       {
         "date": "2026-08-06",
-        "totalTokens": 175123643,
-        "totalCost": 127.408351,
+        "totalTokens": 415200656,
+        "totalCost": 271.973716,
         "models": {
-          "claude-opus-5": 171385676,
           "claude-sonnet-5": 3737967,
+          "gpt-5.6-sol": 48379,
+          "claude-opus-5": 411414310,
           "<synthetic>": 0
         }
       }
