@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T22:51:10+08:00",
+  "generatedAt": "2026-08-18T07:37:08+08:00",
   "overview": {
-    "totalCost": 14079.335525,
+    "totalCost": 14031.272145,
     "totalTokens": 26873879373,
     "activeDays": 181,
     "totalMessages": 129454,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-08-17T22:51:10+08:00"
+    "lastUpdated": "2026-08-18T07:37:08+08:00"
   },
   "models": [
     {
@@ -59,7 +59,7 @@
       "cacheWriteTokens": 0,
       "reasoningTokens": 2109500,
       "totalTokens": 1825432437,
-      "totalCost": 1431.715286,
+      "totalCost": 1382.473606,
       "messageCount": 16031
     },
     {
@@ -215,7 +215,7 @@
       "cacheWriteTokens": 0,
       "reasoningTokens": 487625,
       "totalTokens": 133778273,
-      "totalCost": 55.911605,
+      "totalCost": 57.089905,
       "messageCount": 2373
     },
     {
@@ -1376,13 +1376,13 @@
     {
       "date": "2026-08-01",
       "tokens": 123914175,
-      "cost": 95.515517,
+      "cost": 72.893031,
       "messages": 996
     },
     {
       "date": "2026-08-02",
       "tokens": 29592660,
-      "cost": 28.059028,
+      "cost": 27.221064,
       "messages": 175
     },
     {
@@ -1418,25 +1418,25 @@
     {
       "date": "2026-08-08",
       "tokens": 2508899,
-      "cost": 3.376907,
+      "cost": 1.688454,
       "messages": 33
     },
     {
       "date": "2026-08-09",
       "tokens": 422092,
-      "cost": 1.367673,
+      "cost": 0.683837,
       "messages": 6
     },
     {
       "date": "2026-08-10",
       "tokens": 880993868,
-      "cost": 557.462778,
+      "cost": 553.704124,
       "messages": 3206
     },
     {
       "date": "2026-08-11",
       "tokens": 1102346201,
-      "cost": 701.875146,
+      "cost": 698.518396,
       "messages": 3914
     },
     {
@@ -1448,7 +1448,7 @@
     {
       "date": "2026-08-13",
       "tokens": 607207520,
-      "cost": 415.450252,
+      "cost": 413.370002,
       "messages": 1407
     },
     {
@@ -1460,7 +1460,7 @@
     {
       "date": "2026-08-15",
       "tokens": 93742210,
-      "cost": 73.01184,
+      "cost": 59.976853,
       "messages": 666
     },
     {
@@ -3030,10 +3030,10 @@
       {
         "date": "2026-08-01",
         "totalTokens": 123914175,
-        "totalCost": 95.515517,
+        "totalCost": 72.893031,
         "models": {
-          "gpt-5.6-sol": 122674249,
           "gpt-5.6-terra": 1239926,
+          "gpt-5.6-sol": 122674249,
           "claude-opus-5": 0,
           "claude-opus-4-8": 0,
           "<synthetic>": 0
@@ -3042,7 +3042,7 @@
       {
         "date": "2026-08-02",
         "totalTokens": 29592660,
-        "totalCost": 28.059028,
+        "totalCost": 27.221064,
         "models": {
           "gpt-5.6-sol": 29592660
         }
@@ -3104,7 +3104,7 @@
       {
         "date": "2026-08-08",
         "totalTokens": 2508899,
-        "totalCost": 3.376907,
+        "totalCost": 1.688454,
         "models": {
           "gpt-5.6-sol": 2508899
         }
@@ -3112,7 +3112,7 @@
       {
         "date": "2026-08-09",
         "totalTokens": 422092,
-        "totalCost": 1.367673,
+        "totalCost": 0.683837,
         "models": {
           "gpt-5.6-sol": 422092
         }
@@ -3120,7 +3120,7 @@
       {
         "date": "2026-08-10",
         "totalTokens": 880993868,
-        "totalCost": 557.462778,
+        "totalCost": 553.704124,
         "models": {
           "gpt-5.6-terra": 2736763,
           "gpt-5.6-sol": 75234461,
@@ -3133,7 +3133,7 @@
       {
         "date": "2026-08-11",
         "totalTokens": 1102346201,
-        "totalCost": 701.875146,
+        "totalCost": 698.518396,
         "models": {
           "gpt-5.6-terra": 916384,
           "gpt-5.6-sol": 178880820,
@@ -3154,7 +3154,7 @@
       {
         "date": "2026-08-13",
         "totalTokens": 607207520,
-        "totalCost": 415.450252,
+        "totalCost": 413.370002,
         "models": {
           "gpt-5.6-sol": 4133302,
           "<synthetic>": 0,
@@ -3176,7 +3176,7 @@
       {
         "date": "2026-08-15",
         "totalTokens": 93742210,
-        "totalCost": 73.01184,
+        "totalCost": 59.976853,
         "models": {
           "gpt-5.6-sol": 27929554,
           "claude-opus-5": 65812656
