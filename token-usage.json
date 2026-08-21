@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-20T22:00:25+08:00",
+  "generatedAt": "2026-08-21T08:33:00+08:00",
   "overview": {
-    "totalCost": 15104.5623,
+    "totalCost": 15104.562299,
     "totalTokens": 28472254727,
     "activeDays": 184,
     "totalMessages": 135674,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-08-20T22:00:25+08:00"
+    "lastUpdated": "2026-08-21T08:33:00+08:00"
   },
   "models": [
     {
@@ -59,7 +59,7 @@
       "cacheWriteTokens": 0,
       "reasoningTokens": 2363091,
       "totalTokens": 1995770487,
-      "totalCost": 1518.14451,
+      "totalCost": 1518.144509,
       "messageCount": 17394
     },
     {
@@ -1448,7 +1448,7 @@
     {
       "date": "2026-08-13",
       "tokens": 607207520,
-      "cost": 413.370002,
+      "cost": 413.370001,
       "messages": 1407
     },
     {
@@ -3050,8 +3050,8 @@
         "totalTokens": 123914175,
         "totalCost": 72.893031,
         "models": {
-          "gpt-5.6-sol": 122674249,
           "gpt-5.6-terra": 1239926,
+          "gpt-5.6-sol": 122674249,
           "claude-opus-5": 0,
           "<synthetic>": 0,
           "claude-opus-4-8": 0
@@ -3140,8 +3140,8 @@
         "totalTokens": 880993868,
         "totalCost": 553.704124,
         "models": {
-          "gpt-5.6-sol": 75234461,
           "gpt-5.6-terra": 2736763,
+          "gpt-5.6-sol": 75234461,
           "claude-haiku-4-5": 12086053,
           "<synthetic>": 0,
           "claude-opus-5": 678044449,
@@ -3153,8 +3153,8 @@
         "totalTokens": 1102346201,
         "totalCost": 698.518396,
         "models": {
-          "gpt-5.6-sol": 178880820,
           "gpt-5.6-terra": 916384,
+          "gpt-5.6-sol": 178880820,
           "claude-sonnet-5": 98682278,
           "claude-opus-5": 823866719,
           "<synthetic>": 0
@@ -3172,7 +3172,7 @@
       {
         "date": "2026-08-13",
         "totalTokens": 607207520,
-        "totalCost": 413.370002,
+        "totalCost": 413.370001,
         "models": {
           "gpt-5.6-sol": 4133302,
           "claude-opus-5": 603074218,
