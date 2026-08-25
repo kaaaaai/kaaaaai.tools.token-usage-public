@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T22:00:25+08:00",
+  "generatedAt": "2026-08-26T04:34:55+08:00",
   "overview": {
-    "totalCost": 16159.660993,
-    "totalTokens": 30214694946,
+    "totalCost": 16170.82453,
+    "totalTokens": 30229824253,
     "activeDays": 188,
-    "totalMessages": 141988,
+    "totalMessages": 142114,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-08-25T22:00:25+08:00"
+    "lastUpdated": "2026-08-26T04:34:55+08:00"
   },
   "models": [
     {
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-opus-5",
-      "inputTokens": 7160382,
-      "outputTokens": 13419035,
-      "cacheReadTokens": 5228959507,
-      "cacheWriteTokens": 111262217,
+      "inputTokens": 7211135,
+      "outputTokens": 13476244,
+      "cacheReadTokens": 5243638439,
+      "cacheWriteTokens": 111604630,
       "reasoningTokens": 0,
-      "totalTokens": 5360801141,
-      "totalCost": 3681.146396,
-      "messageCount": 16628
+      "totalTokens": 5375930448,
+      "totalCost": 3692.309933,
+      "messageCount": 16753
     },
     {
       "client": "pi",
@@ -359,7 +359,7 @@
       "reasoningTokens": 0,
       "totalTokens": 0,
       "totalCost": 0,
-      "messageCount": 114
+      "messageCount": 115
     },
     {
       "client": "openclaw",
@@ -1465,9 +1465,9 @@
     },
     {
       "date": "2026-08-16",
-      "tokens": 3643141,
-      "cost": 5.729385,
-      "messages": 13
+      "tokens": 18772448,
+      "cost": 16.892922,
+      "messages": 139
     },
     {
       "date": "2026-08-17",
@@ -3226,10 +3226,11 @@
       },
       {
         "date": "2026-08-16",
-        "totalTokens": 3643141,
-        "totalCost": 5.729385,
+        "totalTokens": 18772448,
+        "totalCost": 16.892922,
         "models": {
-          "claude-opus-5": 3643141
+          "claude-opus-5": 18772448,
+          "<synthetic>": 0
         }
       },
       {
