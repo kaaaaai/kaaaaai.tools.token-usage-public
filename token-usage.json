@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T18:00:34+08:00",
+  "generatedAt": "2026-08-29T19:58:15+08:00",
   "overview": {
-    "totalCost": 17032.740001,
-    "totalTokens": 32891159625,
+    "totalCost": 17037.418266,
+    "totalTokens": 32907405656,
     "activeDays": 192,
-    "totalMessages": 151603,
+    "totalMessages": 151746,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-08-29T18:00:34+08:00"
+    "lastUpdated": "2026-08-29T19:58:15+08:00"
   },
   "models": [
     {
@@ -53,14 +53,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 75669058,
-      "outputTokens": 6613744,
-      "cacheReadTokens": 2119131904,
+      "inputTokens": 76213292,
+      "outputTokens": 6648923,
+      "cacheReadTokens": 2134787840,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 2491628,
-      "totalTokens": 2203906334,
-      "totalCost": 1580.616091,
-      "messageCount": 19065
+      "reasoningTokens": 2502310,
+      "totalTokens": 2220152365,
+      "totalCost": 1585.294356,
+      "messageCount": 19208
     },
     {
       "client": "claude",
@@ -1537,9 +1537,9 @@
     },
     {
       "date": "2026-08-29",
-      "tokens": 169287,
-      "cost": 0.159422,
-      "messages": 7
+      "tokens": 16415318,
+      "cost": 4.837687,
+      "messages": 150
     }
   ],
   "dailyModels": {
@@ -3098,8 +3098,8 @@
         "totalTokens": 123914175,
         "totalCost": 57.521506,
         "models": {
-          "gpt-5.6-terra": 1239926,
           "gpt-5.6-sol": 122674249,
+          "gpt-5.6-terra": 1239926,
           "claude-opus-5": 0,
           "<synthetic>": 0,
           "claude-opus-4-8": 0
@@ -3379,10 +3379,10 @@
       },
       {
         "date": "2026-08-29",
-        "totalTokens": 169287,
-        "totalCost": 0.159422,
+        "totalTokens": 16415318,
+        "totalCost": 4.837687,
         "models": {
-          "gpt-5.6-sol": 169287
+          "gpt-5.6-sol": 16415318
         }
       }
     ]
