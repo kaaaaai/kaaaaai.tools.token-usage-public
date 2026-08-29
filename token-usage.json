@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:00:41+08:00",
+  "generatedAt": "2026-08-29T14:00:28+08:00",
   "overview": {
-    "totalCost": 17032.580581,
-    "totalTokens": 32890990338,
-    "activeDays": 191,
-    "totalMessages": 151596,
+    "totalCost": 17032.740003,
+    "totalTokens": 32891159625,
+    "activeDays": 192,
+    "totalMessages": 151603,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-08-29T12:00:41+08:00"
+    "lastUpdated": "2026-08-29T14:00:28+08:00"
   },
   "models": [
     {
@@ -53,14 +53,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 75620065,
-      "outputTokens": 6610648,
-      "cacheReadTokens": 2119015424,
+      "inputTokens": 75669058,
+      "outputTokens": 6613744,
+      "cacheReadTokens": 2119131904,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 2490910,
-      "totalTokens": 2203737047,
-      "totalCost": 1580.456669,
-      "messageCount": 19058
+      "reasoningTokens": 2491628,
+      "totalTokens": 2203906334,
+      "totalCost": 1580.616091,
+      "messageCount": 19065
     },
     {
       "client": "claude",
@@ -1534,6 +1534,12 @@
       "tokens": 672594076,
       "cost": 277.785497,
       "messages": 1709
+    },
+    {
+      "date": "2026-08-29",
+      "tokens": 169287,
+      "cost": 0.159422,
+      "messages": 7
     }
   ],
   "dailyModels": {
@@ -3195,8 +3201,8 @@
         "totalTokens": 1102346201,
         "totalCost": 676.183491,
         "models": {
-          "gpt-5.6-sol": 178880820,
           "gpt-5.6-terra": 916384,
+          "gpt-5.6-sol": 178880820,
           "<synthetic>": 0,
           "claude-opus-5": 823866719,
           "claude-sonnet-5": 98682278
@@ -3369,6 +3375,14 @@
           "claude-opus-5": 237818666,
           "gpt-5.6-sol": 2425040,
           "claude-sonnet-5": 432350370
+        }
+      },
+      {
+        "date": "2026-08-29",
+        "totalTokens": 169287,
+        "totalCost": 0.159422,
+        "models": {
+          "gpt-5.6-sol": 169287
         }
       }
     ]
