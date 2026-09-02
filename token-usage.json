@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T20:03:38+08:00",
+  "generatedAt": "2026-09-02T22:31:06+08:00",
   "overview": {
-    "totalCost": 17796.431574,
-    "totalTokens": 35436360694,
+    "totalCost": 17851.978868,
+    "totalTokens": 35659016653,
     "activeDays": 195,
-    "totalMessages": 159836,
+    "totalMessages": 160397,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-02T20:03:38+08:00"
+    "lastUpdated": "2026-09-02T22:31:06+08:00"
   },
   "models": [
     {
@@ -27,14 +27,14 @@
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-sonnet-5",
-      "inputTokens": 38904577,
-      "outputTokens": 29871078,
-      "cacheReadTokens": 13777906356,
-      "cacheWriteTokens": 322936596,
+      "inputTokens": 39105651,
+      "outputTokens": 30154561,
+      "cacheReadTokens": 13996653395,
+      "cacheWriteTokens": 326360959,
       "reasoningTokens": 0,
-      "totalTokens": 14169618607,
-      "totalCost": 3939.442697,
-      "messageCount": 45553
+      "totalTokens": 14392274566,
+      "totalCost": 3994.989991,
+      "messageCount": 46114
     },
     {
       "client": "pi",
@@ -1555,9 +1555,9 @@
     },
     {
       "date": "2026-09-02",
-      "tokens": 849129794,
-      "cost": 217.283177,
-      "messages": 2122
+      "tokens": 1071785753,
+      "cost": 272.830471,
+      "messages": 2683
     }
   ],
   "dailyModels": {
@@ -3419,18 +3419,18 @@
         "totalCost": 281.984303,
         "models": {
           "claude-opus-5": 25277821,
-          "claude-sonnet-5": 943456948,
-          "<synthetic>": 0
+          "<synthetic>": 0,
+          "claude-sonnet-5": 943456948
         }
       },
       {
         "date": "2026-09-02",
-        "totalTokens": 849129794,
-        "totalCost": 217.283177,
+        "totalTokens": 1071785753,
+        "totalCost": 272.830471,
         "models": {
-          "claude-sonnet-5": 847420199,
           "claude-opus-5": 975660,
-          "gpt-5.5": 733935
+          "gpt-5.5": 733935,
+          "claude-sonnet-5": 1070076158
         }
       }
     ]
