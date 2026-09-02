@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:08:38+08:00",
+  "generatedAt": "2026-09-02T18:00:58+08:00",
   "overview": {
-    "totalCost": 17662.427629,
-    "totalTokens": 34903212595,
+    "totalCost": 17727.705815,
+    "totalTokens": 35166046947,
     "activeDays": 195,
-    "totalMessages": 158577,
+    "totalMessages": 159208,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-02T16:08:38+08:00"
+    "lastUpdated": "2026-09-02T18:00:58+08:00"
   },
   "models": [
     {
@@ -27,14 +27,14 @@
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-sonnet-5",
-      "inputTokens": 38258092,
-      "outputTokens": 29110411,
-      "cacheReadTokens": 13255124952,
-      "cacheWriteTokens": 315686648,
+      "inputTokens": 38581576,
+      "outputTokens": 29459123,
+      "cacheReadTokens": 13513499426,
+      "cacheWriteTokens": 319474330,
       "reasoningTokens": 0,
-      "totalTokens": 13638180103,
-      "totalCost": 3807.861907,
-      "messageCount": 44319
+      "totalTokens": 13901014455,
+      "totalCost": 3873.140093,
+      "messageCount": 44950
     },
     {
       "client": "pi",
@@ -1550,14 +1550,14 @@
     {
       "date": "2026-09-01",
       "tokens": 968734769,
-      "cost": 281.984303,
+      "cost": 281.984302,
       "messages": 3187
     },
     {
       "date": "2026-09-02",
-      "tokens": 315981695,
-      "cost": 83.279232,
-      "messages": 863
+      "tokens": 578816047,
+      "cost": 148.557419,
+      "messages": 1494
     }
   ],
   "dailyModels": {
@@ -3416,19 +3416,19 @@
       {
         "date": "2026-09-01",
         "totalTokens": 968734769,
-        "totalCost": 281.984303,
+        "totalCost": 281.984302,
         "models": {
-          "claude-opus-5": 25277821,
+          "claude-sonnet-5": 943456948,
           "<synthetic>": 0,
-          "claude-sonnet-5": 943456948
+          "claude-opus-5": 25277821
         }
       },
       {
         "date": "2026-09-02",
-        "totalTokens": 315981695,
-        "totalCost": 83.279232,
+        "totalTokens": 578816047,
+        "totalCost": 148.557419,
         "models": {
-          "claude-sonnet-5": 315981695
+          "claude-sonnet-5": 578816047
         }
       }
     ]
