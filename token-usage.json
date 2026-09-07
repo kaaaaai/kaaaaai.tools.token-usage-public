@@ -1,40 +1,40 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T18:05:47+08:00",
+  "generatedAt": "2026-09-07T20:09:21+08:00",
   "overview": {
-    "totalCost": 18617.130931,
-    "totalTokens": 37486690739,
+    "totalCost": 18683.394388,
+    "totalTokens": 37622717698,
     "activeDays": 199,
-    "totalMessages": 165710,
+    "totalMessages": 166057,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-07T18:05:47+08:00"
+    "lastUpdated": "2026-09-07T20:09:21+08:00"
   },
   "models": [
     {
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-opus-5",
-      "inputTokens": 9405167,
-      "outputTokens": 18125465,
-      "cacheReadTokens": 7042910445,
-      "cacheWriteTokens": 156122904,
+      "inputTokens": 9458637,
+      "outputTokens": 18349462,
+      "cacheReadTokens": 7155773273,
+      "cacheWriteTokens": 160343654,
       "reasoningTokens": 0,
-      "totalTokens": 7226563981,
-      "totalCost": 4814.791734,
-      "messageCount": 22520
+      "totalTokens": 7343925026,
+      "totalCost": 4877.090422,
+      "messageCount": 22790
     },
     {
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-sonnet-5",
-      "inputTokens": 39802993,
-      "outputTokens": 30958431,
-      "cacheReadTokens": 14590721948,
-      "cacheWriteTokens": 351034540,
+      "inputTokens": 39826616,
+      "outputTokens": 30982853,
+      "cacheReadTokens": 14609088462,
+      "cacheWriteTokens": 351285895,
       "reasoningTokens": 0,
-      "totalTokens": 15012517912,
-      "totalCost": 4025.960332,
-      "messageCount": 47604
+      "totalTokens": 15031183826,
+      "totalCost": 4029.925101,
+      "messageCount": 47681
     },
     {
       "client": "pi",
@@ -1556,7 +1556,7 @@
     {
       "date": "2026-09-02",
       "tokens": 1087067757,
-      "cost": 233.24484,
+      "cost": 233.244839,
       "messages": 2709
     },
     {
@@ -1579,9 +1579,9 @@
     },
     {
       "date": "2026-09-07",
-      "tokens": 453127068,
-      "cost": 249.427238,
-      "messages": 1744
+      "tokens": 589154027,
+      "cost": 315.690696,
+      "messages": 2091
     }
   ],
   "dailyModels": {
@@ -3442,19 +3442,19 @@
         "totalTokens": 968734769,
         "totalCost": 219.164139,
         "models": {
+          "claude-sonnet-5": 943456948,
           "claude-opus-5": 25277821,
-          "<synthetic>": 0,
-          "claude-sonnet-5": 943456948
+          "<synthetic>": 0
         }
       },
       {
         "date": "2026-09-02",
         "totalTokens": 1087067757,
-        "totalCost": 233.24484,
+        "totalCost": 233.244839,
         "models": {
           "claude-opus-5": 975660,
-          "gpt-5.5": 733935,
-          "claude-sonnet-5": 1085358162
+          "claude-sonnet-5": 1085358162,
+          "gpt-5.5": 733935
         }
       },
       {
@@ -3462,10 +3462,10 @@
         "totalTokens": 851030363,
         "totalCost": 297.652703,
         "models": {
+          "gpt-5.6-sol": 387284,
           "claude-sonnet-5": 485857544,
-          "claude-opus-5": 364785535,
           "<synthetic>": 0,
-          "gpt-5.6-sol": 387284
+          "claude-opus-5": 364785535
         }
       },
       {
@@ -3473,10 +3473,10 @@
         "totalTokens": 505076041,
         "totalCost": 250.006476,
         "models": {
-          "claude-opus-5": 418731387,
           "<synthetic>": 0,
+          "gpt-5.6-sol": 345460,
           "claude-sonnet-5": 85999194,
-          "gpt-5.6-sol": 345460
+          "claude-opus-5": 418731387
         }
       },
       {
@@ -3489,12 +3489,12 @@
       },
       {
         "date": "2026-09-07",
-        "totalTokens": 453127068,
-        "totalCost": 249.427238,
+        "totalTokens": 589154027,
+        "totalCost": 315.690696,
         "models": {
-          "claude-sonnet-5": 33104604,
-          "claude-opus-5": 415826526,
-          "gpt-5.6-sol": 4195938
+          "gpt-5.6-sol": 4195938,
+          "claude-sonnet-5": 51770518,
+          "claude-opus-5": 533187571
         }
       }
     ]
