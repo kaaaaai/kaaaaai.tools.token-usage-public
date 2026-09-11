@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T07:59:54+08:00",
+  "generatedAt": "2026-09-11T10:00:18+08:00",
   "overview": {
     "totalCost": 20301.114274,
     "totalTokens": 40746455212,
     "activeDays": 202,
     "totalMessages": 175006,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-11T07:59:54+08:00"
+    "lastUpdated": "2026-09-11T10:00:18+08:00"
   },
   "models": [
     {
@@ -3460,9 +3460,9 @@
         "totalTokens": 968734769,
         "totalCost": 219.164139,
         "models": {
-          "claude-opus-5": 25277821,
+          "claude-sonnet-5": 943456948,
           "<synthetic>": 0,
-          "claude-sonnet-5": 943456948
+          "claude-opus-5": 25277821
         }
       },
       {
@@ -3480,10 +3480,10 @@
         "totalTokens": 851030363,
         "totalCost": 297.652702,
         "models": {
-          "claude-sonnet-5": 485857544,
           "claude-opus-5": 364785535,
-          "gpt-5.6-sol": 387284,
-          "<synthetic>": 0
+          "claude-sonnet-5": 485857544,
+          "<synthetic>": 0,
+          "gpt-5.6-sol": 387284
         }
       },
       {
@@ -3491,9 +3491,9 @@
         "totalTokens": 505076041,
         "totalCost": 250.006476,
         "models": {
+          "claude-sonnet-5": 85999194,
           "gpt-5.6-sol": 345460,
           "claude-opus-5": 418731387,
-          "claude-sonnet-5": 85999194,
           "<synthetic>": 0
         }
       },
@@ -3511,9 +3511,9 @@
         "totalCost": 484.175533,
         "models": {
           "claude-opus-5": 823110279,
-          "gpt-5.5": 2132893,
           "claude-sonnet-5": 87918544,
-          "gpt-5.6-sol": 4195938
+          "gpt-5.6-sol": 4195938,
+          "gpt-5.5": 2132893
         }
       },
       {
@@ -3521,10 +3521,10 @@
         "totalTokens": 1226039118,
         "totalCost": 642.667891,
         "models": {
-          "<synthetic>": 0,
-          "claude-opus-5": 1131166164,
           "claude-sonnet-5": 92860513,
-          "claude-haiku-4-5": 2012441
+          "claude-haiku-4-5": 2012441,
+          "<synthetic>": 0,
+          "claude-opus-5": 1131166164
         }
       },
       {
@@ -3532,10 +3532,10 @@
         "totalTokens": 809472301,
         "totalCost": 411.426737,
         "models": {
-          "claude-sonnet-5": 106175669,
-          "claude-opus-5": 702379422,
           "claude-haiku-4-5": 542346,
-          "gpt-5.6-sol": 374864
+          "claude-opus-5": 702379422,
+          "gpt-5.6-sol": 374864,
+          "claude-sonnet-5": 106175669
         }
       },
       {
