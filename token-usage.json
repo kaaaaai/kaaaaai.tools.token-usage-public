@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T22:00:46+08:00",
+  "generatedAt": "2026-09-13T04:05:28+08:00",
   "overview": {
-    "totalCost": 20697.788503,
-    "totalTokens": 41520178437,
+    "totalCost": 20702.894048,
+    "totalTokens": 41529605428,
     "activeDays": 204,
-    "totalMessages": 178144,
+    "totalMessages": 178329,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-12T22:00:46+08:00"
+    "lastUpdated": "2026-09-13T04:05:28+08:00"
   },
   "models": [
     {
@@ -312,6 +312,32 @@
     {
       "client": "codex",
       "provider": "openai",
+      "model": "gpt-6-astra",
+      "inputTokens": 130856,
+      "outputTokens": 17433,
+      "cacheReadTokens": 7883648,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 1555,
+      "totalTokens": 8033492,
+      "totalCost": 5.070804,
+      "messageCount": 148
+    },
+    {
+      "client": "codex",
+      "provider": "openai",
+      "model": "codex-auto-review",
+      "inputTokens": 1799279,
+      "outputTokens": 32357,
+      "cacheReadTokens": 9993344,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 16415,
+      "totalTokens": 11841395,
+      "totalCost": 0.724623,
+      "messageCount": 305
+    },
+    {
+      "client": "codex",
+      "provider": "openai",
       "model": "gpt-5.4-mini",
       "inputTokens": 257018,
       "outputTokens": 42071,
@@ -321,19 +347,6 @@
       "totalTokens": 3315336,
       "totalCost": 0.708797,
       "messageCount": 85
-    },
-    {
-      "client": "codex",
-      "provider": "openai",
-      "model": "codex-auto-review",
-      "inputTokens": 1713701,
-      "outputTokens": 27848,
-      "cacheReadTokens": 8692096,
-      "cacheWriteTokens": 0,
-      "reasoningTokens": 14251,
-      "totalTokens": 10447896,
-      "totalCost": 0.689882,
-      "messageCount": 268
     },
     {
       "client": "codex",
@@ -1609,9 +1622,9 @@
     },
     {
       "date": "2026-09-12",
-      "tokens": 5214637,
-      "cost": 4.022655,
-      "messages": 29
+      "tokens": 14641628,
+      "cost": 9.1282,
+      "messages": 214
     }
   ],
   "dailyModels": {
@@ -1637,7 +1650,8 @@
       "gpt-5.5",
       "gpt-5.6-luna",
       "gpt-5.6-sol",
-      "gpt-5.6-terra"
+      "gpt-5.6-terra",
+      "gpt-6-astra"
     ],
     "days": [
       {
@@ -3572,9 +3586,11 @@
       },
       {
         "date": "2026-09-12",
-        "totalTokens": 5214637,
-        "totalCost": 4.022655,
+        "totalTokens": 14641628,
+        "totalCost": 9.1282,
         "models": {
+          "gpt-6-astra": 8033492,
+          "codex-auto-review": 1393499,
           "gpt-5.6-sol": 5214637
         }
       }
