@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T18:09:43+08:00",
+  "generatedAt": "2026-09-26T19:58:05+08:00",
   "overview": {
     "totalCost": 24692.135004,
     "totalTokens": 49571577534,
     "activeDays": 217,
     "totalMessages": 207245,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-26T18:09:43+08:00"
+    "lastUpdated": "2026-09-26T19:58:05+08:00"
   },
   "models": [
     {
@@ -3366,8 +3366,8 @@
         "totalTokens": 880993868,
         "totalCost": 549.423109,
         "models": {
-          "gpt-5.6-sol": 75234461,
           "gpt-5.6-terra": 2736763,
+          "gpt-5.6-sol": 75234461,
           "claude-haiku-4-5": 12086053,
           "claude-sonnet-5": 112892142,
           "claude-opus-5": 678044449,
