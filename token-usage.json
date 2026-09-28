@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T15:26:08+08:00",
+  "generatedAt": "2026-09-28T15:35:22+08:00",
   "overview": {
-    "totalCost": 24703.310845,
-    "totalTokens": 49589039926,
+    "totalCost": 24705.299732,
+    "totalTokens": 49592312740,
     "activeDays": 219,
-    "totalMessages": 207351,
+    "totalMessages": 207372,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-09-28T15:26:08+08:00"
+    "lastUpdated": "2026-09-28T15:35:22+08:00"
   },
   "models": [
     {
@@ -53,14 +53,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 82290350,
-      "outputTokens": 7010000,
-      "cacheReadTokens": 2284617088,
+      "inputTokens": 82315651,
+      "outputTokens": 7016215,
+      "cacheReadTokens": 2287856512,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 2659961,
-      "totalTokens": 2376577399,
-      "totalCost": 1754.788991,
-      "messageCount": 20473
+      "reasoningTokens": 2661835,
+      "totalTokens": 2379850213,
+      "totalCost": 1756.777878,
+      "messageCount": 20494
     },
     {
       "client": "claude",
@@ -1725,9 +1725,9 @@
     },
     {
       "date": "2026-09-28",
-      "tokens": 16887691,
-      "cost": 10.413132,
-      "messages": 93
+      "tokens": 20160505,
+      "cost": 12.402019,
+      "messages": 114
     }
   ],
   "dailyModels": {
@@ -3288,8 +3288,8 @@
         "totalTokens": 123914175,
         "totalCost": 85.677033,
         "models": {
-          "gpt-5.6-terra": 1239926,
           "gpt-5.6-sol": 122674249,
+          "gpt-5.6-terra": 1239926,
           "<synthetic>": 0,
           "claude-opus-5": 0,
           "claude-opus-4-8": 0
@@ -3391,8 +3391,8 @@
         "totalTokens": 1102346201,
         "totalCost": 680.545869,
         "models": {
-          "gpt-5.6-sol": 178880820,
           "gpt-5.6-terra": 916384,
+          "gpt-5.6-sol": 178880820,
           "claude-sonnet-5": 98682278,
           "<synthetic>": 0,
           "claude-opus-5": 823866719
@@ -3848,10 +3848,10 @@
       },
       {
         "date": "2026-09-28",
-        "totalTokens": 16887691,
-        "totalCost": 10.413132,
+        "totalTokens": 20160505,
+        "totalCost": 12.402019,
         "models": {
-          "gpt-5.6-sol": 3369847,
+          "gpt-5.6-sol": 6642661,
           "claude-opus-5-5": 7293956,
           "<synthetic>": 0,
           "claude-opus-5": 6223888
