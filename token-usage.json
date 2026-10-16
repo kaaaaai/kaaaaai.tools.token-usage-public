@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T22:00:18+08:00",
+  "generatedAt": "2026-10-17T02:41:45+08:00",
   "overview": {
-    "totalCost": 25139.312406,
-    "totalTokens": 51280918239,
+    "totalCost": 25151.052555,
+    "totalTokens": 51303064578,
     "activeDays": 228,
-    "totalMessages": 216572,
+    "totalMessages": 216817,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-10-16T22:00:18+08:00"
+    "lastUpdated": "2026-10-17T02:41:45+08:00"
   },
   "models": [
     {
@@ -312,6 +312,19 @@
     {
       "client": "codex",
       "provider": "openai",
+      "model": "gpt-6-astra",
+      "inputTokens": 271851,
+      "outputTokens": 49203,
+      "cacheReadTokens": 27952384,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 8443,
+      "totalTokens": 28281881,
+      "totalCost": 16.776597,
+      "messageCount": 359
+    },
+    {
+      "client": "codex",
+      "provider": "openai",
       "model": "gpt-5.1-codex-max",
       "inputTokens": 2346452,
       "outputTokens": 455230,
@@ -351,28 +364,15 @@
     {
       "client": "codex",
       "provider": "openai",
-      "model": "gpt-6-astra",
-      "inputTokens": 130856,
-      "outputTokens": 17433,
-      "cacheReadTokens": 7883648,
-      "cacheWriteTokens": 0,
-      "reasoningTokens": 1555,
-      "totalTokens": 8033492,
-      "totalCost": 5.070804,
-      "messageCount": 148
-    },
-    {
-      "client": "codex",
-      "provider": "openai",
       "model": "codex-auto-review",
-      "inputTokens": 1857215,
-      "outputTokens": 33677,
-      "cacheReadTokens": 10104448,
+      "inputTokens": 1959693,
+      "outputTokens": 37003,
+      "cacheReadTokens": 11895552,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 17030,
-      "totalTokens": 12012370,
-      "totalCost": 0.742977,
-      "messageCount": 315
+      "reasoningTokens": 18072,
+      "totalTokens": 13910320,
+      "totalCost": 0.777333,
+      "messageCount": 349
     },
     {
       "client": "codex",
@@ -1805,9 +1805,9 @@
     },
     {
       "date": "2026-10-16",
-      "tokens": 142478252,
-      "cost": 38.709677,
-      "messages": 946
+      "tokens": 164624591,
+      "cost": 50.449826,
+      "messages": 1191
     }
   ],
   "dailyModels": {
@@ -3775,8 +3775,8 @@
         "totalTokens": 14641628,
         "totalCost": 9.1282,
         "models": {
-          "gpt-6-astra": 8033492,
           "codex-auto-review": 1393499,
+          "gpt-6-astra": 8033492,
           "gpt-5.6-sol": 5214637
         }
       },
@@ -4031,9 +4031,11 @@
       },
       {
         "date": "2026-10-16",
-        "totalTokens": 142478252,
-        "totalCost": 38.709677,
+        "totalTokens": 164624591,
+        "totalCost": 50.449826,
         "models": {
+          "codex-auto-review": 1897950,
+          "gpt-6-astra": 20248389,
           "claude-sonnet-5-5": 11100689,
           "claude-opus-5-5": 76914717,
           "gpt-6-sol": 54462846
