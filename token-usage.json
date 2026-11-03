@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T16:00:23+08:00",
+  "generatedAt": "2026-11-03T18:00:18+08:00",
   "overview": {
-    "totalCost": 26029.203905,
-    "totalTokens": 54670571214,
+    "totalCost": 26071.561612,
+    "totalTokens": 54847912377,
     "activeDays": 244,
-    "totalMessages": 233374,
+    "totalMessages": 234159,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-03T16:00:23+08:00"
+    "lastUpdated": "2026-11-03T18:00:18+08:00"
   },
   "models": [
     {
@@ -144,14 +144,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-6-sol",
-      "inputTokens": 10308717,
-      "outputTokens": 1615637,
-      "cacheReadTokens": 803106432,
+      "inputTokens": 10708372,
+      "outputTokens": 1685378,
+      "cacheReadTokens": 850823552,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 609664,
-      "totalTokens": 815640450,
-      "totalCost": 203.491729,
-      "messageCount": 6184
+      "reasoningTokens": 640570,
+      "totalTokens": 863857872,
+      "totalCost": 214.840933,
+      "messageCount": 6479
     },
     {
       "client": "claude",
@@ -219,6 +219,19 @@
       "messageCount": 6535
     },
     {
+      "client": "pi",
+      "provider": "anthropic",
+      "model": "claude-opus-5-5",
+      "inputTokens": 2826,
+      "outputTokens": 897598,
+      "cacheReadTokens": 300794377,
+      "cacheWriteTokens": 8164563,
+      "reasoningTokens": 0,
+      "totalTokens": 309859364,
+      "totalCost": 78.122139,
+      "messageCount": 1257
+    },
+    {
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-terra",
@@ -256,19 +269,6 @@
       "totalTokens": 79290818,
       "totalCost": 59.03611,
       "messageCount": 458
-    },
-    {
-      "client": "pi",
-      "provider": "anthropic",
-      "model": "claude-opus-5-5",
-      "inputTokens": 1756,
-      "outputTokens": 613972,
-      "cacheReadTokens": 174135861,
-      "cacheWriteTokens": 5984034,
-      "reasoningTokens": 0,
-      "totalTokens": 180735623,
-      "totalCost": 47.113636,
-      "messageCount": 767
     },
     {
       "client": "openclaw",
@@ -1966,9 +1966,9 @@
     },
     {
       "date": "2026-11-03",
-      "tokens": 287051133,
-      "cost": 77.960893,
-      "messages": 1578
+      "tokens": 464392296,
+      "cost": 120.3186,
+      "messages": 2363
     }
   ],
   "dailyModels": {
@@ -4342,23 +4342,23 @@
         "totalTokens": 333727894,
         "totalCost": 94.121322,
         "models": {
-          "claude-sonnet-5-5": 18657432,
+          "gpt-6-sol": 140975978,
           "claude-opus-5-5": 153751614,
-          "deepseek-v4.1-flash-1017": 12055654,
           "gpt-5.6-sol": 8287216,
-          "gpt-6-sol": 140975978
+          "deepseek-v4.1-flash-1017": 12055654,
+          "claude-sonnet-5-5": 18657432
         }
       },
       {
         "date": "2026-11-03",
-        "totalTokens": 287051133,
-        "totalCost": 77.960893,
+        "totalTokens": 464392296,
+        "totalCost": 120.3186,
         "models": {
-          "gpt-5.6-sol": 4020379,
+          "claude-opus-5-5": 268339739,
           "claude-sonnet-5-5": 38523,
-          "claude-opus-5-5": 139215998,
-          "gpt-6-sol": 142933671,
-          "gpt-6.1-sol": 842562
+          "gpt-6-sol": 191151093,
+          "gpt-6.1-sol": 842562,
+          "gpt-5.6-sol": 4020379
         }
       }
     ]
