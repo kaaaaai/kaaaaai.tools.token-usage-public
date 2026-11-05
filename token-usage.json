@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:00:16+08:00",
+  "generatedAt": "2026-11-05T08:14:31+08:00",
   "overview": {
-    "totalCost": 26247.14468,
-    "totalTokens": 55594715837,
+    "totalCost": 26248.985498,
+    "totalTokens": 55600150247,
     "activeDays": 245,
-    "totalMessages": 236687,
+    "totalMessages": 236784,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-04T22:00:16+08:00"
+    "lastUpdated": "2026-11-05T08:14:31+08:00"
   },
   "models": [
     {
@@ -53,14 +53,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-5.6-sol",
-      "inputTokens": 83174244,
-      "outputTokens": 7137177,
-      "cacheReadTokens": 2320038784,
+      "inputTokens": 83198338,
+      "outputTokens": 7142945,
+      "cacheReadTokens": 2320618240,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 2703191,
-      "totalTokens": 2413053396,
-      "totalCost": 1776.630223,
-      "messageCount": 20747
+      "reasoningTokens": 2704581,
+      "totalTokens": 2413664104,
+      "totalCost": 1777.101541,
+      "messageCount": 20765
     },
     {
       "client": "claude",
@@ -412,6 +412,19 @@
       "totalTokens": 12449166,
       "totalCost": 2.803186,
       "messageCount": 118
+    },
+    {
+      "client": "pi",
+      "provider": "openai-codex",
+      "model": "gpt-6-sol",
+      "inputTokens": 142296,
+      "outputTokens": 15166,
+      "cacheReadTokens": 4666240,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 0,
+      "totalTokens": 4823702,
+      "totalCost": 1.3695,
+      "messageCount": 79
     },
     {
       "client": "codex",
@@ -2011,9 +2024,9 @@
     },
     {
       "date": "2026-11-04",
-      "tokens": 452119655,
-      "cost": 108.165036,
-      "messages": 1391
+      "tokens": 457554065,
+      "cost": 110.005854,
+      "messages": 1488
     }
   ],
   "dailyModels": {
@@ -4378,8 +4391,8 @@
         "totalTokens": 97100316,
         "totalCost": 23.766824,
         "models": {
-          "gpt-5.6-sol": 5406817,
           "gpt-6.1-sol": 1523356,
+          "gpt-5.6-sol": 5406817,
           "gpt-6-sol": 90170143
         }
       },
@@ -4409,14 +4422,14 @@
       },
       {
         "date": "2026-11-04",
-        "totalTokens": 452119655,
-        "totalCost": 108.165036,
+        "totalTokens": 457554065,
+        "totalCost": 110.005854,
         "models": {
+          "gpt-6-sol": 4912401,
+          "gpt-5.6-sol": 1482971,
           "claude-opus-5-5": 449805736,
           "gpt-5.2": 17898,
-          "gpt-5.6-sol": 872263,
           "deepseek-v4.1-flash-1017": 1286116,
-          "gpt-6-sol": 88699,
           "claude-sonnet-5-5": 48943
         }
       }
