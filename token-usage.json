@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T14:00:14+08:00",
+  "generatedAt": "2026-11-07T16:00:11+08:00",
   "overview": {
     "totalCost": 26552.868781,
     "totalTokens": 56898374188,
     "activeDays": 248,
     "totalMessages": 242850,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-07T14:00:14+08:00"
+    "lastUpdated": "2026-11-07T16:00:11+08:00"
   },
   "models": [
     {
@@ -4459,11 +4459,11 @@
         "totalTokens": 333727894,
         "totalCost": 92.286547,
         "models": {
+          "claude-opus-5-5": 153751614,
+          "claude-sonnet-5-5": 18657432,
           "gpt-5.6-sol": 8287216,
           "gpt-6-sol": 140975978,
-          "claude-opus-5-5": 153751614,
-          "deepseek-v4.1-flash-1017": 12055654,
-          "claude-sonnet-5-5": 18657432
+          "deepseek-v4.1-flash-1017": 12055654
         }
       },
       {
@@ -4471,11 +4471,11 @@
         "totalTokens": 753179187,
         "totalCost": 186.343008,
         "models": {
-          "gpt-6.1-sol": 842562,
-          "gpt-6-sol": 217309275,
           "claude-sonnet-5-5": 38523,
-          "claude-opus-5-5": 530968448,
-          "gpt-5.6-sol": 4020379
+          "gpt-5.6-sol": 4020379,
+          "gpt-6-sol": 217309275,
+          "gpt-6.1-sol": 842562,
+          "claude-opus-5-5": 530968448
         }
       },
       {
@@ -4485,10 +4485,10 @@
         "models": {
           "gpt-6-sol": 4912401,
           "gpt-5.6-sol": 1482971,
-          "gpt-5.2": 17898,
-          "claude-opus-5-5": 449805736,
           "deepseek-v4.1-flash-1017": 1286116,
-          "claude-sonnet-5-5": 48943
+          "claude-opus-5-5": 449805736,
+          "claude-sonnet-5-5": 48943,
+          "gpt-5.2": 17898
         }
       },
       {
@@ -4498,9 +4498,9 @@
         "models": {
           "gpt-6-luna": 41620,
           "gpt-6-sol": 281607368,
+          "deepseek-v4.1-flash-1017": 1556766,
           "gpt-5.6-sol": 4335155,
-          "claude-opus-5-5": 299832594,
-          "deepseek-v4.1-flash-1017": 1556766
+          "claude-opus-5-5": 299832594
         }
       },
       {
@@ -4510,8 +4510,8 @@
         "models": {
           "gpt-6-sol": 265670650,
           "gpt-5.6-sol": 35236429,
-          "gpt-6.1-sol": 5891384,
           "claude-opus-5-5": 109890457,
+          "gpt-6.1-sol": 5891384,
           "deepseek-v4.1-flash-1017": 214221406
         }
       },
