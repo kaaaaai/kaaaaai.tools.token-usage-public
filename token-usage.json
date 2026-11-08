@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T18:00:14+08:00",
+  "generatedAt": "2026-11-08T20:00:12+08:00",
   "overview": {
     "totalCost": 26583.825414,
     "totalTokens": 57019124875,
     "activeDays": 249,
     "totalMessages": 243764,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-08T18:00:14+08:00"
+    "lastUpdated": "2026-11-08T20:00:12+08:00"
   },
   "models": [
     {
@@ -4467,8 +4467,8 @@
         "models": {
           "claude-sonnet-5-5": 18657432,
           "claude-opus-5-5": 153751614,
-          "gpt-6-sol": 140975978,
           "gpt-5.6-sol": 8287216,
+          "gpt-6-sol": 140975978,
           "deepseek-v4.1-flash-1017": 12055654
         }
       },
@@ -4477,9 +4477,9 @@
         "totalTokens": 753179187,
         "totalCost": 186.343008,
         "models": {
-          "claude-opus-5-5": 530968448,
-          "gpt-6-sol": 217309275,
           "claude-sonnet-5-5": 38523,
+          "gpt-6-sol": 217309275,
+          "claude-opus-5-5": 530968448,
           "gpt-6.1-sol": 842562,
           "gpt-5.6-sol": 4020379
         }
@@ -4492,9 +4492,9 @@
           "gpt-5.6-sol": 1482971,
           "gpt-6-sol": 4912401,
           "deepseek-v4.1-flash-1017": 1286116,
-          "claude-opus-5-5": 449805736,
           "claude-sonnet-5-5": 48943,
-          "gpt-5.2": 17898
+          "gpt-5.2": 17898,
+          "claude-opus-5-5": 449805736
         }
       },
       {
@@ -4504,9 +4504,9 @@
         "models": {
           "gpt-6-luna": 41620,
           "gpt-6-sol": 281607368,
-          "claude-opus-5-5": 299832594,
+          "gpt-5.6-sol": 4335155,
           "deepseek-v4.1-flash-1017": 1556766,
-          "gpt-5.6-sol": 4335155
+          "claude-opus-5-5": 299832594
         }
       },
       {
@@ -4515,8 +4515,8 @@
         "totalCost": 124.368478,
         "models": {
           "gpt-6-sol": 265670650,
-          "gpt-5.6-sol": 35236429,
           "claude-opus-5-5": 109890457,
+          "gpt-5.6-sol": 35236429,
           "gpt-6.1-sol": 5891384,
           "deepseek-v4.1-flash-1017": 214221406
         }
