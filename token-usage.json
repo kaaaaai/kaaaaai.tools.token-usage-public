@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T07:58:44+08:00",
+  "generatedAt": "2026-11-10T09:01:34+08:00",
   "overview": {
-    "totalCost": 26577.325626,
-    "totalTokens": 57598234111,
+    "totalCost": 26598.024443,
+    "totalTokens": 57598670588,
     "activeDays": 250,
-    "totalMessages": 244969,
+    "totalMessages": 244974,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-10T07:58:44+08:00"
+    "lastUpdated": "2026-11-10T09:01:34+08:00"
   },
   "models": [
     {
@@ -297,6 +297,19 @@
       "messageCount": 1780
     },
     {
+      "client": "codex",
+      "provider": "openai",
+      "model": "gpt-6-astra",
+      "inputTokens": 746292,
+      "outputTokens": 61841,
+      "cacheReadTokens": 36329344,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 10177,
+      "totalTokens": 37147654,
+      "totalCost": 42.32236,
+      "messageCount": 425
+    },
+    {
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-haiku-4-5",
@@ -321,19 +334,6 @@
       "totalTokens": 28354435,
       "totalCost": 24.980752,
       "messageCount": 265
-    },
-    {
-      "client": "codex",
-      "provider": "openai",
-      "model": "gpt-6-astra",
-      "inputTokens": 655040,
-      "outputTokens": 60208,
-      "cacheReadTokens": 35985792,
-      "cacheWriteTokens": 0,
-      "reasoningTokens": 10137,
-      "totalTokens": 36711177,
-      "totalCost": 23.026721,
-      "messageCount": 420
     },
     {
       "client": "pi",
@@ -453,6 +453,19 @@
       "messageCount": 171
     },
     {
+      "client": "codex",
+      "provider": "openai",
+      "model": "codex-auto-review",
+      "inputTokens": 1995948,
+      "outputTokens": 38938,
+      "cacheReadTokens": 12289920,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 18976,
+      "totalTokens": 14343782,
+      "totalCost": 2.195253,
+      "messageCount": 364
+    },
+    {
       "client": "pi",
       "provider": "openai-codex",
       "model": "gpt-6.1-sol",
@@ -464,19 +477,6 @@
       "totalTokens": 5472852,
       "totalCost": 1.567509,
       "messageCount": 38
-    },
-    {
-      "client": "codex",
-      "provider": "openai",
-      "model": "codex-auto-review",
-      "inputTokens": 1995948,
-      "outputTokens": 38938,
-      "cacheReadTokens": 12289920,
-      "cacheWriteTokens": 0,
-      "reasoningTokens": 18976,
-      "totalTokens": 14343782,
-      "totalCost": 0.792075,
-      "messageCount": 364
     },
     {
       "client": "codex",
@@ -1962,13 +1962,13 @@
     {
       "date": "2026-10-16",
       "tokens": 110176484,
-      "cost": 34.96133,
+      "cost": 47.74063,
       "messages": 748
     },
     {
       "date": "2026-10-17",
       "tokens": 8862758,
-      "cost": 6.264866,
+      "cost": 12.844661,
       "messages": 76
     },
     {
@@ -2039,9 +2039,9 @@
     },
     {
       "date": "2026-10-30",
-      "tokens": 352685294,
-      "cost": 88.899391,
-      "messages": 1707
+      "tokens": 353121771,
+      "cost": 90.239113,
+      "messages": 1712
     },
     {
       "date": "2026-11-01",
@@ -4314,10 +4314,10 @@
       {
         "date": "2026-10-16",
         "totalTokens": 110176484,
-        "totalCost": 34.96133,
+        "totalCost": 47.74063,
         "models": {
-          "codex-auto-review": 1897950,
           "gpt-6-astra": 20248389,
+          "codex-auto-review": 1897950,
           "claude-opus-5-5": 76929456,
           "claude-sonnet-5-5": 11100689
         }
@@ -4325,10 +4325,10 @@
       {
         "date": "2026-10-17",
         "totalTokens": 8862758,
-        "totalCost": 6.264866,
+        "totalCost": 12.844661,
         "models": {
-          "gpt-6-astra": 8429296,
-          "codex-auto-review": 433462
+          "codex-auto-review": 433462,
+          "gpt-6-astra": 8429296
         }
       },
       {
@@ -4449,9 +4449,10 @@
       },
       {
         "date": "2026-10-30",
-        "totalTokens": 352685294,
-        "totalCost": 88.899391,
+        "totalTokens": 353121771,
+        "totalCost": 90.239113,
         "models": {
+          "gpt-6-astra": 436477,
           "gpt-6-sol": 122775146,
           "claude-opus-5-5": 229910148
         }
