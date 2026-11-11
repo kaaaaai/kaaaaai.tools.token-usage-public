@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T16:00:18+08:00",
+  "generatedAt": "2026-11-11T18:46:16+08:00",
   "overview": {
-    "totalCost": 26669.058907,
-    "totalTokens": 58665170828,
+    "totalCost": 26691.076439,
+    "totalTokens": 59005663405,
     "activeDays": 252,
-    "totalMessages": 248703,
+    "totalMessages": 249807,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-11T16:00:18+08:00"
+    "lastUpdated": "2026-11-11T18:46:16+08:00"
   },
   "models": [
     {
@@ -79,14 +79,14 @@
       "client": "claude",
       "provider": "anthropic",
       "model": "claude-opus-5-5",
-      "inputTokens": 8601602,
-      "outputTokens": 10006000,
-      "cacheReadTokens": 3286130718,
-      "cacheWriteTokens": 88175246,
+      "inputTokens": 8604241,
+      "outputTokens": 10008222,
+      "cacheReadTokens": 3286509437,
+      "cacheWriteTokens": 88262870,
       "reasoningTokens": 0,
-      "totalTokens": 3392913566,
-      "totalCost": 984.32482,
-      "messageCount": 15129
+      "totalTokens": 3393384770,
+      "totalCost": 984.45556,
+      "messageCount": 15138
     },
     {
       "client": "claude",
@@ -131,14 +131,14 @@
       "client": "pi",
       "provider": "anthropic",
       "model": "claude-opus-5-5",
-      "inputTokens": 9948,
-      "outputTokens": 2846524,
-      "cacheReadTokens": 1397170212,
-      "cacheWriteTokens": 40030287,
+      "inputTokens": 10692,
+      "outputTokens": 3025351,
+      "cacheReadTokens": 1498765309,
+      "cacheWriteTokens": 43602248,
       "reasoningTokens": 0,
-      "totalTokens": 1440056971,
-      "totalCost": 336.404314,
-      "messageCount": 4441
+      "totalTokens": 1545403600,
+      "totalCost": 360.30285,
+      "messageCount": 4780
     },
     {
       "client": "pi",
@@ -152,6 +152,19 @@
       "totalTokens": 417328220,
       "totalCost": 251.368016,
       "messageCount": 1110
+    },
+    {
+      "client": "pi",
+      "provider": "llm-proxy-v1, openai-codex",
+      "model": "gpt-6-sol",
+      "inputTokens": 6915687,
+      "outputTokens": 1287622,
+      "cacheReadTokens": 660239159,
+      "cacheWriteTokens": 16861125,
+      "reasoningTokens": 0,
+      "totalTokens": 685303593,
+      "totalCost": 200.908239,
+      "messageCount": 4254
     },
     {
       "client": "claude",
@@ -178,19 +191,6 @@
       "totalTokens": 826839587,
       "totalCost": 188.938848,
       "messageCount": 4067
-    },
-    {
-      "client": "pi",
-      "provider": "llm-proxy-v1, openai-codex",
-      "model": "gpt-6-sol",
-      "inputTokens": 6553514,
-      "outputTokens": 1208216,
-      "cacheReadTokens": 627938800,
-      "cacheWriteTokens": 14611317,
-      "reasoningTokens": 0,
-      "totalTokens": 650311847,
-      "totalCost": 187.305241,
-      "messageCount": 4032
     },
     {
       "client": "codex",
@@ -248,14 +248,14 @@
       "client": "pi",
       "provider": "openai-codex",
       "model": "gpt-6-sol",
-      "inputTokens": 6597850,
-      "outputTokens": 652820,
-      "cacheReadTokens": 376437504,
+      "inputTokens": 6957161,
+      "outputTokens": 699865,
+      "cacheReadTokens": 396629760,
       "cacheWriteTokens": 0,
       "reasoningTokens": 0,
-      "totalTokens": 383688174,
-      "totalCost": 95.0114,
-      "messageCount": 2220
+      "totalTokens": 404286786,
+      "totalCost": 100.238923,
+      "messageCount": 2331
     },
     {
       "client": "codex",
@@ -310,19 +310,6 @@
       "messageCount": 1780
     },
     {
-      "client": "pi",
-      "provider": "llm-proxy-v2",
-      "model": "deepseek-v4.1-flash-1017",
-      "inputTokens": 104453750,
-      "outputTokens": 3005019,
-      "cacheReadTokens": 1700606106,
-      "cacheWriteTokens": 0,
-      "reasoningTokens": 0,
-      "totalTokens": 1808064875,
-      "totalCost": 45.145783,
-      "messageCount": 5999
-    },
-    {
       "client": "codex",
       "provider": "openai",
       "model": "gpt-6-astra",
@@ -360,6 +347,19 @@
       "totalTokens": 28354435,
       "totalCost": 24.980752,
       "messageCount": 265
+    },
+    {
+      "client": "pi",
+      "provider": "llm-proxy-v2",
+      "model": "deepseek-v4.1-flash-1017",
+      "inputTokens": 111849395,
+      "outputTokens": 3188864,
+      "cacheReadTokens": 1872111002,
+      "cacheWriteTokens": 0,
+      "reasoningTokens": 0,
+      "totalTokens": 1987149261,
+      "totalCost": 24.307062,
+      "messageCount": 6422
     },
     {
       "client": "pi",
@@ -527,7 +527,7 @@
       "cacheWriteTokens": 0,
       "reasoningTokens": 0,
       "totalTokens": 22712,
-      "totalCost": 0.007088,
+      "totalCost": 0.003544,
       "messageCount": 1
     },
     {
@@ -2039,7 +2039,7 @@
     {
       "date": "2026-11-02",
       "tokens": 298098475,
-      "cost": 82.559168,
+      "cost": 82.306815,
       "messages": 1691
     },
     {
@@ -2050,21 +2050,21 @@
     },
     {
       "date": "2026-11-04",
-      "tokens": 457518769,
-      "cost": 110.027297,
-      "messages": 1486
+      "tokens": 510760338,
+      "cost": 121.778617,
+      "messages": 1660
     },
     {
       "date": "2026-11-05",
-      "tokens": 587373503,
-      "cost": 157.798441,
-      "messages": 2449
+      "tokens": 643977256,
+      "cost": 173.700746,
+      "messages": 2662
     },
     {
       "date": "2026-11-06",
-      "tokens": 630910326,
-      "cost": 127.61859,
-      "messages": 3092
+      "tokens": 656894004,
+      "cost": 133.196196,
+      "messages": 3258
     },
     {
       "date": "2026-11-07",
@@ -2080,21 +2080,21 @@
     },
     {
       "date": "2026-11-09",
-      "tokens": 676583263,
-      "cost": 24.620647,
-      "messages": 1939
+      "tokens": 713786042,
+      "cost": 16.994081,
+      "messages": 2085
     },
     {
       "date": "2026-11-10",
-      "tokens": 837399076,
-      "cost": 63.712086,
-      "messages": 3515
+      "tokens": 854923636,
+      "cost": 56.637563,
+      "messages": 3562
     },
     {
       "date": "2026-11-11",
-      "tokens": 464156919,
-      "cost": 54.110178,
-      "messages": 1891
+      "tokens": 614093157,
+      "cost": 57.849921,
+      "messages": 2249
     }
   ],
   "dailyModels": {
@@ -4467,13 +4467,13 @@
       {
         "date": "2026-11-02",
         "totalTokens": 298098475,
-        "totalCost": 82.559168,
+        "totalCost": 82.306815,
         "models": {
+          "gpt-6-sol": 105346559,
+          "claude-sonnet-5-5": 18657432,
           "claude-opus-5-5": 153751614,
           "deepseek-v4.1-flash-1017": 12055654,
-          "gpt-5.6-sol": 8287216,
-          "claude-sonnet-5-5": 18657432,
-          "gpt-6-sol": 105346559
+          "gpt-5.6-sol": 8287216
         }
       },
       {
@@ -4481,46 +4481,46 @@
         "totalTokens": 548007619,
         "totalCost": 135.574485,
         "models": {
-          "claude-opus-5-5": 530968448,
           "gpt-5.6-sol": 4020379,
           "claude-sonnet-5-5": 38523,
+          "claude-opus-5-5": 530968448,
           "gpt-6-sol": 12980269
         }
       },
       {
         "date": "2026-11-04",
-        "totalTokens": 457518769,
-        "totalCost": 110.027297,
+        "totalTokens": 510760338,
+        "totalCost": 121.778617,
         "models": {
           "gpt-6-sol": 4912401,
           "gpt-5.6-sol": 1482971,
+          "claude-opus-5-5": 503047305,
           "deepseek-v4.1-flash-1017": 1268718,
-          "claude-opus-5-5": 449805736,
           "claude-sonnet-5-5": 48943
         }
       },
       {
         "date": "2026-11-05",
-        "totalTokens": 587373503,
-        "totalCost": 157.798441,
+        "totalTokens": 643977256,
+        "totalCost": 173.700746,
         "models": {
           "gpt-6-luna": 41620,
-          "gpt-6-sol": 281607368,
-          "deepseek-v4.1-flash-1017": 1556766,
-          "claude-opus-5-5": 299832594,
-          "gpt-5.6-sol": 4335155
+          "gpt-6-sol": 290615436,
+          "claude-opus-5-5": 347428279,
+          "gpt-5.6-sol": 4335155,
+          "deepseek-v4.1-flash-1017": 1556766
         }
       },
       {
         "date": "2026-11-06",
-        "totalTokens": 630910326,
-        "totalCost": 127.61859,
+        "totalTokens": 656894004,
+        "totalCost": 133.196196,
         "models": {
-          "gpt-6-sol": 265670650,
+          "gpt-6-sol": 291654328,
           "claude-opus-5-5": 109890457,
+          "gpt-5.6-sol": 35236429,
           "gpt-6.1-sol": 5891384,
-          "deepseek-v4.1-flash-1017": 214221406,
-          "gpt-5.6-sol": 35236429
+          "deepseek-v4.1-flash-1017": 214221406
         }
       },
       {
@@ -4543,42 +4543,42 @@
       },
       {
         "date": "2026-11-09",
-        "totalTokens": 676583263,
-        "totalCost": 24.620647,
+        "totalTokens": 713786042,
+        "totalCost": 16.994081,
         "models": {
-          "claude-opus-5-5": 14783442,
+          "deepseek-v4.1-flash-1017": 687171594,
           "gpt-6-sol": 11165827,
-          "deepseek-v4.1-flash-1017": 649968815,
           "claude-sonnet-5-5": 420907,
-          "gpt-6.1-sol": 244272
+          "gpt-6.1-sol": 244272,
+          "claude-opus-5-5": 14783442
         }
       },
       {
         "date": "2026-11-10",
-        "totalTokens": 837399076,
-        "totalCost": 63.712086,
+        "totalTokens": 854923636,
+        "totalCost": 56.637563,
         "models": {
+          "gpt-6-sol": 177299232,
+          "gpt-5.6-luna": 616231,
           "claude-sonnet-5-5": 293538,
           "gpt-6.1-sol": 376939,
-          "gpt-5.6-luna": 616231,
           "gpt-5.6-sol": 7176339,
-          "deepseek-v4.1-flash-1017": 651636797,
-          "gpt-6-sol": 177299232
+          "deepseek-v4.1-flash-1017": 669161357
         }
       },
       {
         "date": "2026-11-11",
-        "totalTokens": 464156919,
-        "totalCost": 54.110178,
+        "totalTokens": 614093157,
+        "totalCost": 57.849921,
         "models": {
-          "<synthetic>": 0,
-          "claude-sonnet-5-5": 33307,
-          "claude-sonnet-5": 279218,
-          "deepseek-v4.1-flash-1017": 277379431,
-          "claude-opus-5-5": 12658111,
-          "gpt-6-sol": 169020101,
+          "claude-opus-5-5": 17638690,
           "gpt-5.6-sol": 4647380,
-          "claude-opus-4-8": 139371
+          "claude-sonnet-5-5": 33307,
+          "claude-opus-4-8": 139371,
+          "gpt-6-sol": 189618713,
+          "claude-sonnet-5": 279218,
+          "deepseek-v4.1-flash-1017": 401736478,
+          "<synthetic>": 0
         }
       }
     ]
