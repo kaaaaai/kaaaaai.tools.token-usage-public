@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T20:00:14+08:00",
+  "generatedAt": "2026-11-12T20:22:22+08:00",
   "overview": {
     "totalCost": 26778.943443,
     "totalTokens": 60375765753,
     "activeDays": 253,
     "totalMessages": 254655,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-12T20:00:14+08:00"
+    "lastUpdated": "2026-11-12T20:22:22+08:00"
   },
   "models": [
     {
