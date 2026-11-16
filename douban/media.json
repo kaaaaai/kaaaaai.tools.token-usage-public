@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T23:51:15.040941+00:00",
+  "generatedAt": "2026-11-16T23:53:10.236007+00:00",
   "counts": {
     "book": 363,
     "movie": 1619,
     "music": 9,
-    "game": 9
+    "game": 17
   },
   "items": {
     "book": [
@@ -28014,6 +28014,118 @@
         "comment": "",
         "tags": "无双",
         "star_time": "2015-12-25"
+      },
+      {
+        "id": "26347822",
+        "title": "海贼无双3 ワンピース 海賊無双3",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873142/blog/douban/game/26347822.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26347822/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "无双,动作",
+        "star_time": "2015-12-23"
+      },
+      {
+        "id": "21805577",
+        "title": "闪乱神乐 夏日对决 -少女们的选择- 閃乱カグラ ESTIVAL VERSUS -少女達の選択-",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873149/blog/douban/game/21805577.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/21805577/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "乳摇,绅士",
+        "star_time": "2015-12-23"
+      },
+      {
+        "id": "20423966",
+        "title": "神秘海域：黄金深渊 Uncharted: Golden Abyss",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873156/blog/douban/game/20423966.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/20423966/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "",
+        "tags": "解谜",
+        "star_time": "2015-12-23"
+      },
+      {
+        "id": "11530328",
+        "title": "魔兽争霸3：混乱之治 Warcraft III: Reign of Chaos",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873162/blog/douban/game/11530328.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/11530328/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "",
+        "tags": "战略",
+        "star_time": "2015-12-23"
+      },
+      {
+        "id": "10810024",
+        "title": "无双大蛇Z 無双OROCHI Z",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873169/blog/douban/game/10810024.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/10810024/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "动作,无双",
+        "star_time": "2015-12-23"
+      },
+      {
+        "id": "26335519",
+        "title": "龙珠：超宇宙 ドラゴンボール ゼノバース",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873176/blog/douban/game/26335519.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26335519/",
+        "rating": "",
+        "genres": "",
+        "star": "3",
+        "comment": "",
+        "tags": "格斗",
+        "star_time": "2015-12-22"
+      },
+      {
+        "id": "19975600",
+        "title": "耻辱 Dishonored",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873182/blog/douban/game/19975600.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/19975600/",
+        "rating": "",
+        "genres": "",
+        "star": "3",
+        "comment": "",
+        "tags": "动作,潜入",
+        "star_time": "2015-12-22"
+      },
+      {
+        "id": "35184766",
+        "title": "黑神话：悟空 Black Myth: Wukong",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873189/blog/douban/game/35184766.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/35184766/",
+        "rating": "9.2",
+        "genres": "角色扮演,冒险,动作",
+        "star": "5",
+        "comment": "虎先锋是我的老师。",
+        "tags": "动作",
+        "star_time": "2026-11-16 17:12:22"
       }
     ]
   }
