@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T11:49:12.084593+00:00",
+  "generatedAt": "2026-11-16T19:44:09.977116+00:00",
   "counts": {
     "book": 363,
-    "movie": 1618,
+    "movie": 1619,
     "music": 9
   },
   "items": {
@@ -27743,6 +27743,20 @@
         "comment": "",
         "tags": "",
         "star_time": ""
+      },
+      {
+        "id": "36587974",
+        "title": "出走的决心",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794858249/blog/douban/movie/36587974.jpg",
+        "pubdate": "2024-09-15(中国大陆)",
+        "url": "https://movie.douban.com/subject/36587974/",
+        "rating": "8.8",
+        "genres": "剧情,家庭",
+        "star": "",
+        "comment": "挺好看的，甚至会看到一些现实中值得自我反思的一些细节。看完去 b 站看了故事人物原型，很有生命力的人。",
+        "tags": "人性,剧情",
+        "star_time": "2026-11-16 17:11:37"
       }
     ],
     "music": [
