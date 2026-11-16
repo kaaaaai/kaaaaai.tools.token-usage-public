@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T19:44:09.977116+00:00",
+  "generatedAt": "2026-11-16T23:51:15.040941+00:00",
   "counts": {
     "book": 363,
     "movie": 1619,
-    "music": 9
+    "music": 9,
+    "game": 9
   },
   "items": {
     "book": [
@@ -27885,6 +27886,134 @@
         "comment": "",
         "tags": "",
         "star_time": "2017-01-11"
+      }
+    ],
+    "game": [
+      {
+        "id": "36961754",
+        "title": "武林求生 Karate Survivor",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873024/blog/douban/game/36961754.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/36961754/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "好玩～关卡数量刚刚好，多了会感觉重复和腻",
+        "tags": "Rougelike",
+        "star_time": "2024-11-04"
+      },
+      {
+        "id": "36932396",
+        "title": "塞尔达传说 智慧的再现 ゼルダの伝説 知恵のかりもの",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873031/blog/douban/game/36932396.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/36932396/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "好玩，btw 为啥一个游戏还要被拳啊不懂",
+        "tags": "塞尔达,解密",
+        "star_time": "2024-11-04"
+      },
+      {
+        "id": "26817171",
+        "title": "塞尔达传说 旷野之息 ゼルダの伝説 ブレス オブ ザ ワイルド",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873037/blog/douban/game/26817171.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26817171/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "最近在复习等新作呢！",
+        "tags": "神作,开放世界",
+        "star_time": "2023-04-30"
+      },
+      {
+        "id": "35205915",
+        "title": "战神：诸神黄昏 God of War: Ragnarok",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873043/blog/douban/game/35205915.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/35205915/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "下一部不要以儿子做主角吧！",
+        "tags": "",
+        "star_time": "2022-12-02"
+      },
+      {
+        "id": "26817155",
+        "title": "漫威蜘蛛侠 Marvel's Spider-Man",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873049/blog/douban/game/26817155.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26817155/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "除了流程短，收集和刷图对比同类型游戏简直不要太友好~吹爆",
+        "tags": "ACT,漫威,动作",
+        "star_time": "2018-10-14"
+      },
+      {
+        "id": "25788225",
+        "title": "星之卡比 三重彩 星のカービィ トリプルデラックス",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873055/blog/douban/game/25788225.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/25788225/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "横板通关,星之卡比",
+        "star_time": "2018-10-08"
+      },
+      {
+        "id": "26253018",
+        "title": "以撒的结合：重生 The Binding of Isaac: Rebirth",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873061/blog/douban/game/26253018.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26253018/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "自虐",
+        "star_time": "2016-02-04"
+      },
+      {
+        "id": "21687297",
+        "title": "灵魂献祭 SOUL SACRIFICE",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873068/blog/douban/game/21687297.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/21687297/",
+        "rating": "",
+        "genres": "",
+        "star": "5",
+        "comment": "",
+        "tags": "ACT",
+        "star_time": "2016-02-04"
+      },
+      {
+        "id": "26417387",
+        "title": "战国无双4-2 戦国無双4-2",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1794873074/blog/douban/game/26417387.jpg",
+        "pubdate": "",
+        "url": "https://www.douban.com/game/26417387/",
+        "rating": "",
+        "genres": "",
+        "star": "4",
+        "comment": "",
+        "tags": "无双",
+        "star_time": "2015-12-25"
       }
     ]
   }
