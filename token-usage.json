@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T21:37:24+08:00",
+  "generatedAt": "2026-11-22T07:58:01+08:00",
   "overview": {
     "totalCost": 27139.50435,
     "totalTokens": 62296489030,
     "activeDays": 257,
     "totalMessages": 264368,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-19T21:37:24+08:00"
+    "lastUpdated": "2026-11-22T07:58:01+08:00"
   },
   "models": [
     {
@@ -4607,8 +4607,8 @@
         "totalTokens": 642751789,
         "totalCost": 173.264213,
         "models": {
-          "gpt-6-sol": 289389969,
           "gpt-6-luna": 41620,
+          "gpt-6-sol": 289389969,
           "claude-opus-5-5": 347428279,
           "gpt-5.6-sol": 4335155,
           "deepseek-v4.1-flash-1017": 1556766
