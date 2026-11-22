@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T23:53:10.236007+00:00",
+  "generatedAt": "2026-11-22T09:46:10.936202+00:00",
   "counts": {
     "book": 363,
-    "movie": 1619,
+    "movie": 1620,
     "music": 9,
     "game": 17
   },
@@ -27744,6 +27744,20 @@
         "comment": "",
         "tags": "",
         "star_time": ""
+      },
+      {
+        "id": "36847425",
+        "title": "可能的爱",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1795340770/blog/douban/movie/36847425.jpg",
+        "pubdate": "2026-09-06(威尼斯电影节)",
+        "url": "https://movie.douban.com/subject/36847425/",
+        "rating": "8.6",
+        "genres": "剧情,爱情",
+        "star": "4",
+        "comment": "喜欢这种平舒直叙但又力量感的叙事，但感觉更喜欢《燃烧》，可能里面人物都更年轻，看起来更有生命力和希望。",
+        "tags": "",
+        "star_time": "2026-11-22 12:45:14"
       },
       {
         "id": "36587974",
