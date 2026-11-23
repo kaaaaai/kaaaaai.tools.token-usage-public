@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T09:46:10.936202+00:00",
+  "generatedAt": "2026-11-23T21:48:59.366711+00:00",
   "counts": {
     "book": 363,
-    "movie": 1620,
+    "movie": 1621,
     "music": 9,
     "game": 17
   },
@@ -27744,6 +27744,20 @@
         "comment": "",
         "tags": "",
         "star_time": ""
+      },
+      {
+        "id": "36882191",
+        "title": "八仙！",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1795470538/blog/douban/movie/36882191.jpg",
+        "pubdate": "2026-07-18(中国大陆)",
+        "url": "https://movie.douban.com/subject/36882191/",
+        "rating": "8.2",
+        "genres": "喜剧,动画,奇幻",
+        "star": "4",
+        "comment": "好看",
+        "tags": "",
+        "star_time": "2026-11-23 10:48:43"
       },
       {
         "id": "36847425",
