@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T19:59:51+08:00",
+  "generatedAt": "2026-11-26T08:47:29+08:00",
   "overview": {
-    "totalCost": 27139.676615,
-    "totalTokens": 62296834840,
+    "totalCost": 27139.558943,
+    "totalTokens": 62296443625,
     "activeDays": 258,
-    "totalMessages": 264377,
+    "totalMessages": 264366,
     "favoriteModel": "claude-opus-5",
-    "lastUpdated": "2026-11-22T19:59:51+08:00"
+    "lastUpdated": "2026-11-26T08:47:29+08:00"
   },
   "models": [
     {
@@ -482,14 +482,14 @@
       "client": "codex",
       "provider": "openai",
       "model": "gpt-6.1-sol",
-      "inputTokens": 530058,
-      "outputTokens": 29566,
-      "cacheReadTokens": 10636928,
+      "inputTokens": 494041,
+      "outputTokens": 28574,
+      "cacheReadTokens": 10282752,
       "cacheWriteTokens": 0,
-      "reasoningTokens": 660,
-      "totalTokens": 11197212,
-      "totalCost": 2.426262,
-      "messageCount": 102
+      "reasoningTokens": 630,
+      "totalTokens": 10805997,
+      "totalCost": 2.30859,
+      "messageCount": 91
     },
     {
       "client": "codex",
@@ -2188,9 +2188,9 @@
     },
     {
       "date": "2026-11-16",
-      "tokens": 706102665,
-      "cost": 133.817964,
-      "messages": 3899
+      "tokens": 705711450,
+      "cost": 133.700292,
+      "messages": 3888
     },
     {
       "date": "2026-11-17",
@@ -4613,8 +4613,8 @@
         "totalTokens": 642751789,
         "totalCost": 173.264213,
         "models": {
-          "gpt-6-sol": 289389969,
           "gpt-6-luna": 41620,
+          "gpt-6-sol": 289389969,
           "claude-opus-5-5": 347428279,
           "gpt-5.6-sol": 4335155,
           "deepseek-v4.1-flash-1017": 1556766
@@ -4722,10 +4722,9 @@
       },
       {
         "date": "2026-11-16",
-        "totalTokens": 706102665,
-        "totalCost": 133.817964,
+        "totalTokens": 705711450,
+        "totalCost": 133.700292,
         "models": {
-          "gpt-6.1-sol": 391215,
           "gpt-6-sol": 522271557,
           "deepseek-v4.1-flash-1017": 179944468,
           "gpt-5.6-sol": 3495425
