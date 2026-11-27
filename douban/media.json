@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T21:48:59.366711+00:00",
+  "generatedAt": "2026-11-27T09:15:38.900071+00:00",
   "counts": {
     "book": 363,
-    "movie": 1621,
+    "movie": 1622,
     "music": 9,
     "game": 17
   },
@@ -27744,6 +27744,20 @@
         "comment": "",
         "tags": "",
         "star_time": ""
+      },
+      {
+        "id": "37068446",
+        "title": "生化危机：爆发夜",
+        "intro": "",
+        "poster": "https://res.cloudinary.com/clawvox/image/upload/v1795770938/blog/douban/movie/37068446.jpg",
+        "pubdate": "2026-10-05(中国大陆)",
+        "url": "https://movie.douban.com/subject/37068446/",
+        "rating": "7.3",
+        "genres": "科幻,惊悚,恐怖",
+        "star": "4",
+        "comment": "版本更新：丧尸迎来史诗级加强，削弱人类在上个版本中的智力优势。",
+        "tags": "",
+        "star_time": "2026-11-27 08:34:00"
       },
       {
         "id": "36882191",
